@@ -27,5 +27,11 @@ The fonts are:
     BenSen.ttf
     kalpurush.ttf
     
-    
 Note: Now open your terminal copy full line and paste in your terminal and press enter. And after some time you will see that all fonts are downloading and installing without any hassle.
+
+<pre>wget --no-check-certificate https://fahadahammed.com/extras/fonts/font.sh -O font.sh;chmod +x font.sh;bash font.sh;rm font.sh</pre>
+
+
+Fonts are collected from different sources. Fonts are hard work of the creators. Respect their work.
+
+I have tested the script only from Debian Based Distributions Like Debian itself, Ubuntu, Linux Mint, Kali, Netrunner etc. I        hope it will also work on RPM based Distributions like Fedora, OpenSuse, Mandriva, CentOS etc. It should also work with others  like Archlinux.
